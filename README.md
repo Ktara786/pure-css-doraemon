@@ -12,10 +12,12 @@ cartoon.
 - Pure CSS implementation
 - Simple and clean code structure
 
-## How to Use
-- Clone the Repository: Open your terminal and run the following command to clone the repository:
-   git clone https://github.com/yourusername/css-doraemon.git
--    
+## How to Download
+- Click the green "Code" button on the repository page.
+- Select "Download ZIP."
+- Extract the ZIP file and open index.html in your web browser to View the Result. 
+
+  Feel Free to Modify: You can edit the CSS styles in styles.css to customize the design to your liking!
 
 
 
